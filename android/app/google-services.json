@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "969150734738",
+    "firebase_url": "https://healthy-mn.firebaseio.com",
+    "project_id": "healthy-mn",
+    "storage_bucket": "healthy-mn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969150734738:android:5647f806183a8296",
+        "android_client_info": {
+          "package_name": "com.bilguun.healthy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969150734738-7q3d16v8qvctle6hkg1f4kseqf5u8lh2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bilguun.healthy",
+            "certificate_hash": "886746f0dd56e6dd8e6b0df1cfa4a753ec775833"
+          }
+        },
+        {
+          "client_id": "969150734738-d1m64o980dapfslb65q74ks8paopvlie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg_mnJXP_56GdaSBsSk60fmD7pkfYKcOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969150734738-d1m64o980dapfslb65q74ks8paopvlie.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
